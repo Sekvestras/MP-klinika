@@ -1,0 +1,50 @@
+@charset "utf-8";
+#carouselExampleIndicators1 .carousel-control-next .carousel-control-next-icon {
+    border-color: #030303;
+    -webkit-box-shadow: inset 0px 0px;
+    box-shadow: inset 0px 0px;
+    display: inline;
+    visibility: visible;
+    opacity: 1;
+}
+.row {
+    margin-left: 10px;
+}
+.row .col-lg-3 img {
+    margin-left: 15px;
+    width: 50%;
+}
+.row .col-lg-4 img {
+    margin-left: -13px;
+}
+.row .col-lg-4 img {
+    margin-left: 41px;
+    margin-right: 19px;
+}
+
+.row .col-lg-4.offset-lg-0 img {
+
+}
+.row .col-lg-4.offset-lg-0 img {
+    padding-right: 6px;
+    margin-left: 25px;
+    margin-right: 26px;
+    left: 23px;
+    right: 80mm;
+}
+.row {
+    margin-left: -3px;
+}
+
+
+
+@media (max-width:1170px){
+.row .col-lg-4 img {
+    width: 85%;
+    height: 85%;
+}
+
+
+
+
+}
